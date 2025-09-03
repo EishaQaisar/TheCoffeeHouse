@@ -23,14 +23,33 @@ Built using **HTML5**, **CSS3**, and **Bootstrap 5** for a modern, mobile-friend
 - **Bootstrap 5** – Responsive grid, navbar, and cards  
 
 ---
-
 ## 📸 Screenshots  
 
+### 🏠 Homepage  
 <p align="center">
-  <img src="./images/sliders.jpg" alt="Homepage Hero Section" width="600" /><br>
-  <img src="./images/specials.jpg" alt="Shop Section" width="600" /><br>
-  <img src="./images/contactUS.jpg" alt="Contact Page" width="600" /><br>
-  <img src="./images/feebacks.jpg" alt="Customer Feedback Section" width="600" />
+  <img src="./images/home1.jpg" alt="Homepage Banner 1" width="300" />
+  <img src="./images/home2.jpg" alt="Homepage Banner 2" width="300" />
+  <img src="./images/home3.jpg" alt="Homepage Banner 3" width="300" />
+  <img src="./images/home4.jpg" alt="Homepage Banner 4" width="300" />
+</p>
+
+### 🛍️ Shop Section  
+<p align="center">
+  <img src="./images/shop1.jpg" alt="Shop Product 1" width="250" />
+  <img src="./images/shop2.jpg" alt="Shop Product 2" width="250" />
+  <img src="./images/shop3.jpg" alt="Shop Product 3" width="250" />
+  <img src="./images/shop4.jpg" alt="Shop Product 4" width="250" />
+  <img src="./images/shop6.jpg" alt="Shop Product 5" width="250" />
+</p>
+
+### 📖 Our Story  
+<p align="center">
+  <img src="./images/ourStory.jpg" alt="Our Story Section" width="500" />
+</p>
+
+### 📞 Contact  
+<p align="center">
+  <img src="./images/contact.jpg" alt="Contact Section" width="500" />
 </p>
 
 
